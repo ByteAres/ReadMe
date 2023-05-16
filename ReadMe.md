@@ -1,5 +1,9 @@
 **[ByteAres](https://github.com/ByteAres)/ReadMe.md**
 
+```
+True power lies in understanding.
+```
+
 ```cpp
 #include <iostream>
 #include <string>
@@ -10,8 +14,4 @@ int main() {
     std::cout << "Follow " << ByteAres << " on Github." << std::endl;
     return 0;
 }
-```
-
-```
-True power lies in understanding.
 ```

@@ -12,4 +12,6 @@ int main() {
 }
 ```
 
-
+```
+True power lies in understanding.
+```

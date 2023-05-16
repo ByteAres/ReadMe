@@ -1,9 +1,5 @@
 **[ByteAres](https://github.com/ByteAres)/ReadMe.md**
 
-```
-                                                  Second Place Is First Loser
-```
-
 ```cpp
 #include <iostream>
 #include <string>

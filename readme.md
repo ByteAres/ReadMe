@@ -15,3 +15,8 @@ int main() {
     return 0;
 }
 ```
+```python
+ByteAres = "https://github.com/ByteAres"
+
+print("Follow", ByteAres, "on Github.")
+```

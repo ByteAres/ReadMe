@@ -1,6 +1,6 @@
 **[ByteAres](https://github.com/ByteAres)/ReadMe.md**
 
-```
+```json
 True power lies in understanding.
 ```
 
@@ -20,3 +20,5 @@ ByteAres = "https://github.com/ByteAres"
 
 print("Follow", ByteAres, "on Github.")
 ```
+
+<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
